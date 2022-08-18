@@ -18,8 +18,8 @@
 * This class extends the Maps API's standard GMarker class with the ability
 * to support markers with textual labels. Please see articles here:
 *
-*       http://googlemapsbook.com/2007/01/22/extending-gmarker/
-*       http://googlemapsbook.com/2007/03/06/clickable-labeledmarker/
+*       [ Both commented links were deprecated and leading to dangerous sites. ]
+*
 */
 
 /**
